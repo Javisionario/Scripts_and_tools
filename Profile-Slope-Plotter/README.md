@@ -1,6 +1,6 @@
 # Profile & Slope Plotter
 
-Notebook **Jupyter** para generar **perfiles longitudinales** y **gráficas de pendiente (%)** a partir de un fichero **CSV** a aprtir del plugin L_RAT (si bien se puede adaptar a cualquier tabla o dataset).
+Notebook **Jupyter** para generar **perfiles longitudinales** y **gráficas de pendiente (%)** a partir de un fichero **CSV**. Se diseñó inicialmente para trabajar con salidas de [L-RAT](https://github.com/Javisionario/L-RAT), aunque puede utilizarse con cualquier tabla o dataset que contenga los campos esperados.
 
 Está pensado para flujos típicos de **ingeniería civil** (carreteras, ferrocarril, conducciones y trazados lineales), pero es aplicable a cualquier serie con eje longitudinal (distancia) y variables asociadas.
 
