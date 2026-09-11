@@ -5,7 +5,7 @@ Notebook **Jupyter** para generar **perfiles longitudinales** y **gráficas de p
 Está pensado para flujos típicos de **ingeniería civil** (carreteras, ferrocarril, conducciones y trazados lineales), pero es aplicable a cualquier serie con eje longitudinal (distancia) y variables asociadas.
 
 
-![Perfil longitudinal - salida](https://raw.githubusercontent.com/Javisionario/Profile-Slope-Plotter/main/images/Output.png)
+![Perfil longitudinal - salida](images/Output.png)
 
 ---
 
@@ -64,12 +64,12 @@ Esto permite ubicar correctamente ticks fuera del dataset pero necesarios para u
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la **GNU General Public License v3.0 (GPL-3.0)**.  
+Este proyecto se distribuye bajo la **GNU General Public License v3.0 (GPL-3.0)**.
 Puedes usarlo, modificarlo y compartirlo libremente bajo los términos de esta licencia.
 
 ---
 
 ## 👤 Autor
 
-- **LinkedIn**: [Javi H. Piris](https://www.linkedin.com/in/javierhpiris)  
+- **LinkedIn**: [Javi H. Piris](https://www.linkedin.com/in/javierhpiris)
 - **GitHub**: [@Javisionario](https://github.com/Javisionario)
