@@ -1,6 +1,6 @@
-# Engineering Scripts
+# Scripts & Tools
 
-Colección de **notebooks y utilidades técnicas** para análisis de datos aplicado a transporte, movilidad e ingeniería.
+Colección de **notebooks y utilidades técnicas independientes** para análisis de datos aplicado a transporte, movilidad e ingeniería.
 
 Cada herramienta mantiene su propia documentación y dependencias.
 
@@ -26,7 +26,7 @@ pip install -r <herramienta>/requirements.txt
 
 ## Historial
 
-Estas herramientas se desarrollaron inicialmente en repositorios independientes. Los repositorios originales pueden conservarse como archivo histórico mientras el desarrollo activo continúa aquí.
+Estas herramientas se desarrollaron inicialmente en repositorios independientes. Los repositorios originales se conservan como archivo histórico, mientras que el desarrollo activo continúa aquí.
 
 ## Licencia
 
